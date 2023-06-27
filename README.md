@@ -9,5 +9,5 @@ I love technology, coding and good stories.
 - 🌱 I’m currently learning Unity and C#
 
 
-- 📫 How to reach me: depacegianfranco@gmail.com 
+- 📫 How to reach me: depacegianfranco0@gmail.com 
 
