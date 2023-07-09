@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm a full stack developer/game developer, currently attending a post-diploma institute [@JAC](https://jac-its.it/en/) in San Paolo d'Argon (BG).
-Always looking for something to do. 
+Always looking for something interesting to do. 
 I love technology, coding and good stories.
 
 
