@@ -5,7 +5,7 @@ Always looking for something interesting to do.
 I love technology, coding and good stories.
 
 
-- 🔭 I’m currently working on how to build a good portfolio ?
+- 🔭 I’m currently working on how to build a good portfolio.
 - 🌱 I’m currently learning Unity and C#
 
 
